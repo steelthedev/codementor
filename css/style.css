@@ -1,0 +1,31 @@
+
+
+.navbar-brand{
+    margin: 0 15px;
+}
+
+
+.hero{
+    background-image: linear-gradient(294deg,#006080,#006181 47%,#003648)
+}
+
+.h-text{
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+
+.home-btn{
+    padding: 16px;
+    color: #ffffff;
+    background: #FF6B54;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0px #FF6B54 solid;
+    font-weight: 600;
+}
+
+
+.blue-heading{
+    color: #003648;
+}
